@@ -1,0 +1,19 @@
+{
+    "name": "sunxyw\/php-minecraft-auth",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunxyw",
+            "email": "xy2496419818@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "MinecraftAuth\\": "src"
+        }
+    }
+}
